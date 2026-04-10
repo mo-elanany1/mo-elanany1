@@ -14,9 +14,7 @@
 
 ```python
 class MohamedElenany:
-
     role = "Data Analyst"
-
     skills = [
         "Excel",
         "SQL",
@@ -24,11 +22,8 @@ class MohamedElenany:
         "Power BI",
         "Tableau"
     ]
-
     background = "Accounting → Data Analysis"
-
     passion = "Turning raw data into clear insights that support decision making"
-
     focus = [
         "Data Cleaning",
         "Data Analysis",
